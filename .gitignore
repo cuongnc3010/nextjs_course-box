@@ -37,3 +37,7 @@ next-env.d.ts
 
 #history
 .history
+
+# Storybook
+storybook-static
+build-storybook.log
